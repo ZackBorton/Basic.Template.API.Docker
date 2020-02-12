@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Zack Borton",
+  "classifications": [ "API", "Core", "Swagger" ],
+  "preferNameDirectory": true,
+  "identity": "Basic.API.Template",
+  "name": "API with swagger",
+  "shortName": "Basic.API.Template",
+  "sourceName": "Basic.API.Template",
+  "primaryOutputs": [
+    {
+      "path": "API.sln"
+    }
+  ],
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  }
+}

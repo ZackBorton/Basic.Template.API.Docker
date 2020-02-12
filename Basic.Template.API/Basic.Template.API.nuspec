@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>Basic.Template.API</id>
+		<title>Basic Api Template</title>
+        <version>1.0.1</version>
+        <description>Api with swagger and basic architecture pattern</description>
+        <authors>Zack Borton</authors>
+		<owners>Zack Borton</owners>
+		<projectUrl>https://github.com/ZackBorton/BasicTemplateAPI</projectUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<summary>Dotnet new template with swagger and dependecy injection scanning</summary>
+		<tags>Swagger API, Dependency Injection</tags>
+		<packageTypes>
+			<packageType name="Template" />
+		</packageTypes>
+    </metadata>
+</package>
