@@ -1,5 +1,13 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)![Build Status](https://travis-ci.com/ZackBorton/Basic.Template.API.svg?branch=master)
 
+# Ensure you have docker installed then
+* In the API directory you should build the container ```docker build --no-cache .```
+* Then to run the app running on port 5005 run this command ```docker compose up```
+
+# TODO
+* Install AWS cli and install AWS cert bundles 
+* Add localstack logic
+
 # Basic.Template.API
 Basic bootstrapped project for creating a new dotnet app using the dotnet new command
 
