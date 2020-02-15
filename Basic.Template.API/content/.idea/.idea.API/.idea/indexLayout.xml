@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ContentModelUserStore">
     <attachedFolders>
-      <Path>../../../Basic.Template.API</Path>
+      <Path>../../../Basic.Template.API.Docker</Path>
     </attachedFolders>
     <explicitIncludes />
     <explicitExcludes />
