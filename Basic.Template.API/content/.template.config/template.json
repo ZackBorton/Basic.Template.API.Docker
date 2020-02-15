@@ -3,10 +3,10 @@
   "author": "Zack Borton",
   "classifications": [ "API", "Core", "Swagger" ],
   "preferNameDirectory": true,
-  "identity": "Basic.API.Template",
-  "name": "API with swagger",
-  "shortName": "Basic.API.Template",
-  "sourceName": "Basic.API.Template",
+  "identity": "Basic.API.Template.Docker",
+  "name": "API with swagger and docker",
+  "shortName": "Basic.API.Template.Docker",
+  "sourceName": "Basic.API.Template.Docker",
   "primaryOutputs": [
     {
       "path": "API.sln"
